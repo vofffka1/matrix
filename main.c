@@ -33,8 +33,7 @@ w0[0]=1;
         summ=0;
     }
     while(e>e1);
-
-printf("%f\n",d);
+printf("Собственное значение: %f\nСобственный вектор:",d);
 for (i=0;i<n;i++) printf("%f\n",w0norm[i]);
 }
 
