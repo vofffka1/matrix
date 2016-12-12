@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 
-void Input(int n,int A[][100]) {
+void Input(int n,int A[][100]) { // Осуществить ввод через файл
 int i,j;
 printf("Enter matrix:");
     for (i=0;i<n;i++)
